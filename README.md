@@ -15,14 +15,6 @@ Focused on designing scalable, production-ready architectures for intelligent ap
 
 ---
 
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandrofonsecacuza&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=alejandrofonsecacuza)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrofonsecacuza&layout=compact)
-
----
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alejandrofonsecacuza-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-fonseca-cuza-602693249)
@@ -30,4 +22,4 @@ Focused on designing scalable, production-ready architectures for intelligent ap
 
 ---
 
-*Always curious, always building.*
+*✨ Always curious, always building.*
