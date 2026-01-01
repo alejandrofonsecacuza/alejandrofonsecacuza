@@ -1,22 +1,33 @@
-# 👋 Hi, I'm Alejandro Fonseca Cuza  
+# Hi, I'm Alejandro Fonseca Cuza
 
-💡 **AI Engineer & Software Developer** with experience building intelligent systems, fullstack applications, and automation tools.  
-I enjoy working at the intersection of **Machine Learning, Natural Language Processing, and Web Development**, creating solutions that make data and AI more accessible.  
-
----
-
-## 🚀 About Me  
-- 🔹 Experienced in **Python** for backend, AI, and automation.  
-- 🔹 Background in **Machine Learning, NLP, and Document Processing** applied to real-world business cases.  
-- 🔹 Skilled in designing **conversational agents** that integrate multiple knowledge sources (databases, APIs, and documents).  
-- 🔹 Developed applications across **web, microservices, and desktop environments**.  
-- 🔹 Enthusiastic about **open-source contributions** and collaborative projects.  
+**Backend & AI Engineer** specialized in Python-based backend systems enhanced with AI.  
+Focused on designing scalable, production-ready architectures for intelligent applications.
 
 ---
 
-## 🌍 Let's Connect  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/alejandrofonsecacuza)  
-- 🖥️ Explore my work here on GitHub: [github.com/alejandrofonsecacuza](https://github.com/alejandrofonsecacuza)  
+## About Me
+
+- Experienced in building **Python-based backend systems** with AI as a core component.
+- Strong background in **Machine Learning and NLP**, applied to real-world, production-oriented use cases.
+- Interested in **conversational systems and RAG architectures** that connect models with APIs, databases, and documents.
+- Comfortable designing **async services, microservices, and background processing workflows**.
+- Enjoys working on **open-source projects**, experimentation, and collaborative engineering.
 
 ---
-⭐️ *Always curious, always building.*  
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandrofonsecacuza&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=alejandrofonsecacuza)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrofonsecacuza&layout=compact)
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alejandrofonsecacuza-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-fonseca-cuza-602693249)
+[![Email](https://img.shields.io/badge/Email-fonsecacuzaalejandro%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:fonsecacuzaalejandro@gmail.com)
+
+---
+
+*Always curious, always building.*
